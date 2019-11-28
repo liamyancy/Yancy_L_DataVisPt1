@@ -1,6 +1,6 @@
 # Olympic Data Visualization Webpage
 
-This is a visualization build that compares how Canada, United States and Russia have done against eachother, and the rest of the world. You can find the original Olympic dataset here: [Olympic Data](https://docs.google.com/spreadsheets/d/17KN8JqFD_xBQ6iWT4_3xKDYi0ATxurRbjck3HbBJrfs/edit?usp=sharing)
+This is a visualization build that compares how Canada, United States and Russia have done against each other, and the rest of the world. You can find the original Olympic dataset here: [Olympic Data](https://docs.google.com/spreadsheets/d/17KN8JqFD_xBQ6iWT4_3xKDYi0ATxurRbjck3HbBJrfs/edit?usp=sharing)
 
 ## Getting Started
 
