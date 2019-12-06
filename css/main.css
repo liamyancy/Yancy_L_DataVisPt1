@@ -1,0 +1,25 @@
+
+.headerImages {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin-top: 30px;
+}
+
+.pieCharts {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 0px 70px 0px 70px;
+}
+
+.barGraphs {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 0px 70px 0px 70px;
+}
+
+#torches {
+	margin-top: 70px;
+}
